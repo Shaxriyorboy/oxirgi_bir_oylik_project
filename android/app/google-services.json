@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54411945047",
+    "project_id": "for-the-last-month",
+    "storage_bucket": "for-the-last-month.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54411945047:android:430ded34b6347f37e2af12",
+        "android_client_info": {
+          "package_name": "com.example.oxirgi_bir_oylik_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54411945047-m461b2ghr0ug1qkja28pij4tqjrp7nif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEXNvYtm_ChhfkonhaqoK7C3lhlsfAdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54411945047-m461b2ghr0ug1qkja28pij4tqjrp7nif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
